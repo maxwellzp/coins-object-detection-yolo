@@ -1,0 +1,10 @@
+path: dataset/processed
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: 10_uah_silver
+  1: 1_uah_gold
+  2: 1_uah_silver
