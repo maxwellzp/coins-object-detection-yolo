@@ -1,0 +1,12 @@
+# Python Virtual Environment
+.venv/
+
+# YOLO models
+models/
+
+# Dataset
+dataset/*
+!dataset/.gitkeep
+
+# Development terminal
+terminal.txt
