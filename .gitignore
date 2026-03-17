@@ -7,6 +7,7 @@ models/
 # Dataset
 dataset/*
 !dataset/.gitkeep
+!dataset/dataset.yaml
 
 # Development terminal
 terminal.txt
