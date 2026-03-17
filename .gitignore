@@ -11,3 +11,7 @@ dataset/*
 
 # Development terminal
 terminal.txt
+
+# Pretrained models (downloaded artifacts)
+pretrained/*
+!pretrained/.gitkeep
